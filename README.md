@@ -1,39 +1,26 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+# Mobile Finish Portfolio
 
-Modify this file to match your project and remove sections that don't apply.
+> A simple Mobile portfolio finish.
+> Below are the sections contained in this project;
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
+- Toolbar
+- Headline section (right after the header).
+- About myself
+- Lets Connect
+  The layout was done using css flexbox and css grid, button interactions implemented.
+  Use media queries to make sure that website displays correctly on desktop screens.
+  <div align="center">
 
-After you're finished please remove all the comments and instructions!
--->
+    <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+    <br/>
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+    <h3><b>Microverse README Template</b></h3>
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
+# Mobile Finish Portfolio
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -55,19 +42,18 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Mobile Finish Portfolio <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Mobile Finish Portfolio** is a complete portfolio mobile version
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+- HTML
+- CSS
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
@@ -94,137 +80,50 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+- **Toolbar**
+- **Portfolio**
+- **About myself**
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+## Live Demo (if available).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+-not available
 
-<!-- LIVE DEMO -->
+## Getting Started
 
-## 🚀 Live Demo <a name="live-demo"></a>
+I) install git
 
-> Add a link to your deployed project.
+II) open the terminal
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+III) change to the directory to which the remote directory shall be cloned to
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+IV) copy the url link from the git hub of the repo and clone it into the directory
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+V) change diectory to the created folder
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+    -Require basic knowdledge and understanding  on HTML, CSS and any prefered IDE.
 
 ### Install
 
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
+-install git and and prefered IDE eg VS CODE
 
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+## Author
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Kalungi J Bobson**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
+- GitHub:https://github.com/KALUNGI-J-BOBSON
+- Twitter:https://twitter.com/KALUNGIBOBONJ
+- LinkedIn:https://linkedin.com/in/KALUNGI-J-BOBSON
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Links to other projects**
+- [ ] **Embedded assistant**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,29 +151,18 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank my reviewers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **How Do i use linters**
 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  -Follow the link below to have a brief intro on how to use linters
+  https://www.google.com/search?q=how+to+use+linters&sxsrf=ALiCzsZBP8aP9KgjFJD29gQ7ufLwA12ihQ:1669998153856&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjdr_H1q9v7AhVN_7sIHcSCBrYQ_AUoAXoECAIQAw&biw=1228&bih=573&dpr=3.13#fpstate=ive&vld=cid:498279cd,vid:HDQXWr5TOnI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
