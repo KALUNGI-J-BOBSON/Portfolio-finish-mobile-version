@@ -79,6 +79,8 @@
   padding: 20px 12px;
 }
 
+/* ---------------------------works------------------------------------------ */
+
 .shadow-back {
   background: #e5e5e5;
   padding: 114px 24px;
@@ -171,6 +173,8 @@ h3 {
   font-weight: 500;
   color: #396df2;
 }
+
+/* ---------------------------about me------------------------------------------ */
 
 .about {
   padding: 24px;
@@ -318,9 +322,7 @@ h3 {
   border-top-left-radius: 100px;
   display: flex;
   justify-content: center;
-  background:
-    linear-gradient(#6070ff, rgba(96, 112, 255, 0.85)),
-    url(./images/background2.jpg);
+  background: linear-gradient(#6070ff, rgba(96, 112, 255, 0.85)), url(./images/background2.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
