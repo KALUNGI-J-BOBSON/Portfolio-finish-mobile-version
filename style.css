@@ -357,7 +357,7 @@ h3 {
 }
 
 .text {
-  width: 50%;
+  width: 100%;
   color: #172b4d;
   font-size: 17px;
   font-weight: 100;
@@ -369,7 +369,7 @@ h3 {
 }
 
 .textarea {
-  width: 50%;
+  width: 100%;
   color: #172b4d;
   font-size: 17px;
   font-weight: 100;
@@ -381,7 +381,7 @@ h3 {
 }
 
 .emailtext {
-  width: 50%;
+  width: 100%;
   color: #172b4d;
   font-size: 17px;
   font-weight: 100;
