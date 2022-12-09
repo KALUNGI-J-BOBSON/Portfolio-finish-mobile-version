@@ -322,10 +322,10 @@ h3 {
   border-top-left-radius: 100px;
   display: flex;
   justify-content: center;
-  background: linear-gradient(#6070ff, rgba(96, 112, 255, 0.85)), url(./images/background2.jpg);
+  background: linear-gradient(#6070ff, rgba(48, 68, 252, 0.85)), url(./images/background2.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right 5px bottom 10%;
 }
 
 .bg_color {
@@ -337,7 +337,7 @@ h3 {
   margin-top: 24px;
   padding: 12px;
   background: #fff;
-  border: 1px solid #396df2;
+  border: 1px solid #2f18e0;
   border-radius: 5px;
   font-size: 17px;
   font-weight: 500;
@@ -347,25 +347,24 @@ h3 {
 .contact_form {
   width: 80%;
   margin: auto;
-  color: #172b4d;
+  color: #064ac0;
   font-size: 17px;
   font-weight: 100;
   line-height: 28px;
-  padding: 5px;
-  outline: none;
   border-radius: 5px;
 }
 
 .text {
   width: 100%;
-  color: #172b4d;
+  color: #1c69ed;
   font-size: 17px;
   font-weight: 100;
   line-height: 28px;
   padding: 5px;
   outline: none;
-  border-radius: 5px;
+  border-radius: 8px;
   margin-bottom: 24px;
+  border: 1px solid #cfd8dc;
 }
 
 .textarea {
@@ -373,11 +372,8 @@ h3 {
   color: #172b4d;
   font-size: 17px;
   font-weight: 100;
-  line-height: 28px;
-  padding: 5px;
-  outline: none;
+  line-height: 60px;
   border-radius: 5px;
-  margin-bottom: 0;
 }
 
 .emailtext {
@@ -388,20 +384,25 @@ h3 {
   line-height: 28px;
   padding: 5px;
   outline: none;
-  border-radius: 5px;
+  border-radius: 8px;
   border-spacing: 0;
   margin-bottom: 24px;
+  border: 1px solid #cfd8dc;
 }
 
 .text3 h2 {
-  font-family: "Inter", sans-serif;
-  font-style: bold;
-  font-size: 40px;
+  color: #ebebff;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 28px;
   text-align: center;
-  align-items: center;
-  margin-bottom: 2px;
+  padding: 15px 0;
+  margin-bottom: 24px;
+}
+
+.contact_form header h3 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 40px;
   font-weight: 700;
-  line-height: 52px;
-  color: #172b4d;
-  margin-top: 5px;
 }
