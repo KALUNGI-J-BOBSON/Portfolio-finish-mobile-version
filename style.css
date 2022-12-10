@@ -432,18 +432,14 @@ h3 {
   transform: rotate(48.94deg);
 }
 
-.submit_button button:hover{
-  
+.submit_button button:hover {
   padding: 10px 15px;
   background-color: #6070ff;
-  color:#dfe1e6;
+  color: #dfe1e6;
 }
-.submit_button button:active{
-  
+
+.submit_button button:active {
   padding: 10px 15px;
   background-color: #001aff;
-  color:#ffffff;
+  color: #fff;
 }
-
-
-
