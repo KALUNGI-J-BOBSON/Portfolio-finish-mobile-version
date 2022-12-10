@@ -756,7 +756,7 @@
   }
 
   button:hover {
-    color: crimson;
+    color: rgb(24, 4, 175);
   }
 
   .card1 {
@@ -977,7 +977,7 @@
 
   .h002 {
     /* Header / 2 */
-    text-align: center;
+    text-align: ce;
     padding-top: 3em;
     font-family: "Poppins", sans-serif;
     font-style: normal;
@@ -987,11 +987,9 @@
 
     /* or 130% */
 
-    display: flex;
     align-items: center;
 
     /* Neutrals/N0 */
-
     color: #fff;
   }
 
@@ -1077,9 +1075,15 @@
 
   .formy-btn:hover {
     background: skyblue;
-    color: white;
-    transform: rotateY(360deg);
-    transition: 2s;
+    padding: 10px 15px;
+    background-color: #6070ff;
+    color: #e5e5e5;
+  }
+
+  .formy-btn:active {
+    background: skyblue;
+    padding: 10px 15px;
+    background-color: #3449ff;
   }
 
   .cards {
