@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
-# Mobile Finish Portfolio
+# Desktop Version Finish Portfolio
 
-> A simple Mobile portfolio finish.
+> A simple Desktop  portfolio finish.
 > Below are the sections contained in this project;
 
 - Toolbar
@@ -13,14 +13,12 @@
   Use media queries to make sure that website displays correctly on desktop screens.
   <div align="center">
 
-    <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-    <br/>
-
-    <h3><b>Microverse README Template</b></h3>
+  
+    <h3><b>Desktop Version Finish Portfolio</b></h3>
 
 </div>
 
-# Mobile Finish Portfolio
+# Desktop Version Finish Portfolio
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -168,6 +166,6 @@ I would like to thank my reviewers
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
