@@ -322,10 +322,10 @@ h3 {
   border-top-left-radius: 100px;
   display: flex;
   justify-content: center;
-  background: linear-gradient(#6070ff, rgba(48, 68, 252, 0.85)), url(./images/background2.jpg);
+  background: linear-gradient(rgba(96, 112, 255, 0.85), rgba(96, 112, 255, 0.85)), url(./images/contact-form-shapes-mobile@2x.png);
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: right 5px bottom 10%;
+  background-position: right 5px bottom 0%;
 }
 
 .bg_color {
@@ -333,6 +333,7 @@ h3 {
 }
 
 .contact_section button {
+  position: relative;
   display: inline-grid;
   margin-top: 24px;
   padding: 12px;
@@ -405,4 +406,28 @@ h3 {
   color: rgb(255, 255, 255);
   font-size: 40px;
   font-weight: 700;
+}
+
+.emailtext:hover::placeholder {
+  transform: translate(10px, 0);
+  color: #172b4d50;
+}
+
+.textarea:hover::placeholder {
+  transform: translate(10px, 0);
+  color: #172b4d50;
+}
+
+.text:hover::placeholder {
+  transform: translate(10px, 0);
+  color: #172b4d50;
+}
+
+.contact_section .ellipse {
+  position: relative;
+  width: 31.11px;
+  height: 31.11px;
+  left: 220.74px;
+  top: 10.27px;
+  transform: rotate(48.94deg);
 }
