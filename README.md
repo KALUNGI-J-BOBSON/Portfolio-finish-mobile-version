@@ -14,6 +14,7 @@
   <div align="center">
 
   
+
     <h3><b>Desktop Version Finish Portfolio</b></h3>
 
 </div>
@@ -40,11 +41,11 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Mobile Finish Portfolio <a name="about-project"></a>
+# 📖 Desktop Version Finish Portfolio <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**Mobile Finish Portfolio** is a complete portfolio mobile version
+**Desktop Version Finish Portfolio** is a complete portfolio desktop version
 
 ## 🛠 Built With <a name="built-with"></a>
 
