@@ -322,7 +322,8 @@ h3 {
   border-top-left-radius: 100px;
   display: flex;
   justify-content: center;
-  background: url(./images/contact-form-shapes-mobile@2x.png),
+  background:
+    url(./images/contact-form-shapes-mobile@2x.png),
     linear-gradient(rgba(96, 112, 255, 0.85), rgba(96, 112, 255, 0.85));
   background-size: contain;
   background-repeat: no-repeat;
