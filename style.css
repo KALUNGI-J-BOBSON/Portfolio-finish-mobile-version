@@ -14,6 +14,7 @@
   }
 
   .cards {
+    justify-content: center;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -21,6 +22,7 @@
 
   .swapcard3 {
     display: none;
+    justify-content: center;
   }
 
   header {
@@ -103,6 +105,7 @@
   .card001 {
     display: grid;
     grid-template-columns: auto;
+    justify-content: center;
   }
 
   li {
@@ -239,6 +242,7 @@
   }
 
   .about {
+    justify-content: center;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -259,6 +263,7 @@
   }
 
   .intro {
+    justify-content: center;
     width: 350px;
     height: 150px;
     margin: 10px 1px 5px 1px;
@@ -277,6 +282,7 @@
   }
 
   .h6 {
+    justify-content: center;
     font-family: "Poppins", sans-serif;
     margin-right: 100%;
     font-style: normal;
@@ -308,6 +314,7 @@
   }
 
   .end li {
+    justify-content: center;
     display: flex;
     left: 25%;
     padding-bottom: 3px;
@@ -353,10 +360,11 @@
   }
 
   .frames > ul {
-    width: 80%;
+    width: 60%;
   }
 
   .container {
+    justify-content: center;
     width: 375px;
     height: 1263px;
     display: grid;
@@ -365,6 +373,7 @@
   }
 
   .formy {
+    justify-content: center;
     padding-top: 4rem;
     width: 100%;
     height: auto;
@@ -375,6 +384,7 @@
 
   .h002 {
     /* Header / 2 */
+    justify-content: center;
     text-align: center;
     padding-top: 3em;
     font-family: "Poppins", sans-serif;
@@ -828,6 +838,7 @@
     padding-top: 2rem;
     display: grid;
     grid-template-columns: 1fr 1.7fr;
+    justify-content: center;
   }
 
   #about001 {
