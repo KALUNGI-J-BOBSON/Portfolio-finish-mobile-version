@@ -11,11 +11,8 @@
 - Lets Connect
   The layout was done using css flexbox and css grid, button interactions implemented.
   Use media queries to make sure that website displays correctly on desktop screens.
-  <div align="center">
 
-</div>
-
-# Mobile Finish Portfolio
+  # Mobile Finish Portfolio
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
