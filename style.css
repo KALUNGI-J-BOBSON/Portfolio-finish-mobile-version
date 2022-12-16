@@ -337,12 +337,15 @@
     font-size: 20px;
     line-height: 24px;
 
+
     /* identical to box height, or 120% */
+
 
     display: flex;
     align-items: center;
 
     /* Theme 1 / Neutrals 3 */
+
 
     color: #344563;
   }
@@ -363,6 +366,7 @@
     row-gap: 50px;
     grid-template-rows: repeat(6, 1fr);
   }
+
 
   .formy {
     padding-top: 4rem;
