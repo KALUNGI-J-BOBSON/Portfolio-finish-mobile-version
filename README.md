@@ -2,7 +2,7 @@
 
 # Desktop Version Finish Portfolio
 
-> A simple Desktop  portfolio finish.
+> A simple Desktop portfolio finish.
 > Below are the sections contained in this project;
 
 - Toolbar
@@ -13,9 +13,7 @@
   Use media queries to make sure that website displays correctly on desktop screens.
   <div align="center">
 
-  
-
-    <h3><b>Desktop Version Finish Portfolio</b></h3>
+      <h3><b>Desktop Version Finish Portfolio</b></h3>
 
 </div>
 
@@ -166,7 +164,5 @@ I would like to thank my reviewers
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
