@@ -230,7 +230,7 @@
     background: #fff;
     border: 1px solid #435c9d;
     border-radius: 14px;
-    margin-top: 3rem;
+    margin-top: 1rem;
     transition: color 0.5s ease;
   }
 
@@ -743,7 +743,7 @@
     background: #fff;
     border: 1px solid #435c9d;
     border-radius: 14px;
-    margin-top: 3rem;
+    margin-top: 1rem;
     transition: color 0.5s ease;
   }
 
@@ -813,7 +813,7 @@
   }
 
   .intro {
-    width: 100%;
+    /* width: 20%; */
     height: auto;
     color: #344563;
     font-size: 16px;
@@ -827,18 +827,17 @@
     justify-content: center;
     width: 100%;
     padding-top: 2rem;
-    display: grid;
-    grid-template-columns: 1fr 1.7fr;
+    display: flex;
   }
 
   #about001 {
-    width: 40%;
-    padding-left: 15%;
+    padding-left: 5%;
     display: flex;
     flex-direction: column;
   }
 
   #about002 {
+    padding-left: 3%;
     width: 60%;
     display: flex;
     margin-left: 3%;
