@@ -745,12 +745,19 @@
     border-radius: 14px;
     margin-top: 1rem;
     transition: color 0.5s ease;
+    transition: width 0.5s ease;
   }
 
   button:hover {
     color: crimson;
     transform: translate(5px, 11px);
     background-image: linear-gradient(to right, pink, lightgreen);
+    width: 300px;
+  }
+
+  button:active {
+    background-color: #1d2fd4;
+    color: #0048ff;
   }
 
   .card1 {
