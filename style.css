@@ -749,6 +749,8 @@
 
   button:hover {
     color: crimson;
+    transform: translate(5px, 11px);
+    background-image: linear-gradient(to right, pink, lightgreen);
   }
 
   .card1 {
