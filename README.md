@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
-# Mobile Finish Portfolio
+# Desktop Version Finish Portfolio
 
-> A simple Mobile portfolio finish.
+> A simple Desktop portfolio finish.
 > Below are the sections contained in this project;
 
 - Toolbar
@@ -11,8 +11,6 @@
 - Lets Connect
   The layout was done using css flexbox and css grid, button interactions implemented.
   Use media queries to make sure that website displays correctly on desktop screens.
-
-  # Mobile Finish Portfolio
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -34,11 +32,11 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Mobile Finish Portfolio <a name="about-project"></a>
+# 📖 Desktop Version Finish Portfolio <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**Mobile Finish Portfolio** is a complete portfolio mobile version
+**Desktop Version Finish Portfolio** is a complete portfolio desktop version
 
 ## 🛠 Built With <a name="built-with"></a>
 
